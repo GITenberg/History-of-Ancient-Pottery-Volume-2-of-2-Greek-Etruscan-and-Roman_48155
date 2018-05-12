@@ -1,10 +1,16 @@
 _repo: History-of-Ancient-Pottery-Volume-2-of-2-Greek-Etruscan-and-Roman_48155
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48155-h/images/cover.jpg
 creator:
   author:
     agent_name: Walters, H. B.
     gutenberg_agent_id: '43692'
     url: http://www.gutenberg.org/2009/agents/43692
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48155#History-of-Ancient-Pottery-Volume-2-of-2-Greek-Etruscan-and-Roman
 gutenberg_issued: '2015-02-07'
 gutenberg_type: Text
 identifiers:
